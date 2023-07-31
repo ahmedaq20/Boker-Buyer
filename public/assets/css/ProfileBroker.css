@@ -1,0 +1,72 @@
+/*.edit button{*/
+/*    height: 40px;*/
+/*    width: 250px;*/
+/*    position: absolute;*/
+/*    margin-left: -283px;*/
+/*    margin-top: 83px;*/
+/*    background-color: #30C030;*/
+/*    border: 1px solid #30C030;*/
+/*    font-size: 18px;*/
+/*}*/
+
+.about .container .about-thumb1 span {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -10px;
+    margin-left: 11px;
+}
+
+
+.about .container .about-thumb1 i {
+    font-size: 20px;
+    margin-left: -205px;
+    margin-top: 45px;
+}
+
+.about-info{
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.about-info span{
+    font-size: 15px;
+    color: #1a1a1a;
+
+}
+.about-thumb {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 85%;
+}
+
+.custom3-btn {
+    margin-left: 80px;
+    margin-top: 150px;
+    float: right;
+    color: #F58F29;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.about-thumb2{
+    margin-top:50px;
+    margin-left: 50px;
+    background-color: var(--section-bg-color);
+    border: 3px solid var(--primary-color);
+
+}
+
+.op h5{
+    margin-bottom: -22px;
+    margin-top:30px;
+    margin-left: 50px;
+    color: var(--primary-color);
+    font-size: 25px;
+}
+
+
+.about-info1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}

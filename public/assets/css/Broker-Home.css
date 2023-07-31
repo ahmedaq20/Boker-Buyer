@@ -1,0 +1,59 @@
+.about-thumb1{
+    background-color: white;
+}
+
+
+.about-thumb1 .about-info1 button {
+    margin-bottom: -10px;
+    margin-top: 35px;
+    background-color: var(--primary-color);
+    color: white;
+    border: 1px solid var(--primary-color);
+    height: 40px;
+    width: 140px;
+    font-weight: bold;
+}
+
+
+.about-thumb1 .about-info1 span{
+    color: var(--primary-color);
+    padding-right: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: -10px;
+    margin-top: 35px;
+}
+
+.bi-emoji-smile-fill {
+    margin-top: -32px;
+    margin-right: -191px;
+    color: #FFD727;
+    font-size: 25px;
+}
+
+.offer1 {
+    font-size: 20px;
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+.about-thumb1 .about-info1 input {
+    background:none;
+    color: black;
+    border: none;
+    height: 80px;
+    width:80%;
+    font-weight: bold;
+}
+
+
+.about-thumb1 .about-info1 input:focus {
+    outline: none;
+}
+
+#section_5{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+
+

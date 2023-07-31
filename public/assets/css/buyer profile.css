@@ -1,0 +1,191 @@
+.about .container .row .col-lg-6 .shadow-lg1{
+    background:none;
+    border: 0;
+}
+
+.about .container .about-thumb1 span{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -74px;
+    margin-left: 11px;
+}
+
+.about .container .about-thumb1 i{
+  color: #BA3B46;
+    font-size: 20px;
+    margin-left: -205px;
+    margin-top: -20px;
+
+
+}
+
+.edit button {
+
+    margin-left: -100px;
+    margin-top: 70px;
+    height: 50px;
+    width: 140px;
+    background: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.forme form label{
+    color: var(--primary-color);
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+
+}
+
+.forme form input{
+    width: 350px;
+    background-color: var(--section-bg-color);
+    height:55px ;
+    font-size: 15px;
+    border: 2px solid var(--primary-color);
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    pointer-events:none;
+}
+
+#inp6{
+    background: none;
+    border: none;
+    width: 100%;
+    height: 50px;
+
+}
+
+input:focus {
+    outline: none;
+}
+
+
+
+::placeholder{
+    color: rgba(98,80,165, 55%);
+    padding-left: 10px;
+
+}
+
+.for2{
+    float: right;
+    margin-top: -334px;
+    margin-right: 100px;
+
+}
+
+.for1{
+    margin-left: 50px;
+}
+
+
+
+.input{
+    background-color: var(--white-color);
+    pointer-events:visible;
+}
+
+
+
+
+
+
+.collapse1 {
+    height: 100%;
+    width:0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    background-color: #F7F4EA;
+    transition: 0.5s;
+    padding-top: 100px;
+    list-style-type: none;
+
+}
+
+.collapse1 a {
+    padding: 15px 15px 15px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: var(--primary-color);
+    display: block;
+    transition: 0.3s;
+}
+
+.collapse1 a:hover {
+    color:var(--secondary-color);
+}
+
+.collapse1 .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+    .collapse1 {padding-top: 15px;}
+    .collapse1 a {font-size: 18px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#dropdownButton1 {
+    cursor: pointer;
+
+}
+
+#dropdownMenu1 {
+    width: 90px;
+    position: fixed;
+    z-index: 1;
+    display: none;
+    /*overflow-x: hidden;*/
+    background-color: white;
+    transition: 0.3s;
+    padding: 5px 15px 5px 15px;
+
+
+
+}
+
+
+
+
